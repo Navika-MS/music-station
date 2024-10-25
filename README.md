@@ -13,9 +13,5 @@ To install all the required modules use the following code:
 1. Run the python file index.py
 2. Open browser and go to the link http://127.0.0.1:5000/home?lang={language} eg: http://127.0.0.1:5000/home?lang=english
 
-# My Youtube Channel
-[![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
 
-[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
 
-#### Star the Repo in case you liked it :)
